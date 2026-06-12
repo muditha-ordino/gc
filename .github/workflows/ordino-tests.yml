@@ -1,5 +1,4 @@
 name: ordino playwright tests
-
 on:
   push:
     branches: [ "main" ]
